@@ -1,0 +1,18 @@
+.row-selected{
+  background: #d4f4fb ;
+}
+
+
+.other-clic{
+  background: white !important;
+  color: black;
+}
+
+tr{
+  cursor: pointer;
+}
+p{
+    color: red;
+    font-family: Arial;
+    font-size: 19px;
+}
